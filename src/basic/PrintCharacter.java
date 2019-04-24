@@ -1,3 +1,5 @@
+package basic;
+
 public class PrintCharacter implements Runnable {
 
     private char character;
